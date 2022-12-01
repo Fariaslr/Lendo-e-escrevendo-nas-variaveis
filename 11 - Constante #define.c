@@ -3,7 +3,7 @@
 #define pi 3.1415
 
 /*
-	11)Elabore um programa que contenha uma constante qualquer do tipo float. Use o 
+	11) Elabore um programa que contenha uma constante qualquer do tipo float. Use o 
 	comando #define. Imprima essa constante.
 */
 
@@ -11,7 +11,7 @@ int main(){
 	
     setlocale(LC_ALL,"");//Permite caracteres especiais
 	
-    printf("A constante é: %f",pi);
+    printf("A constante Ã©: %f",pi);
 
     return 0;
 }
