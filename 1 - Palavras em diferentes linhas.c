@@ -2,15 +2,15 @@
 #include <locale.h>//biblioteca de acentos
 
 /*
-    1) Elabore um programa que escreva as mensagens “Início do programa” e “Fim” na 
+    1) Elabore um programa que escreva as mensagens â€œInÃ­cio do programaâ€ e â€œFimâ€ na 
     tela, uma em cada linha, usando apenas um comando printf(). 
 */
 
-int main(){
+int main( ){
 	
     setlocale(LC_ALL,"");//Permite caracteres especiais
     
-    printf("Início do programa\nFim!\n");
+    printf("InÃ­cio do programa\nFim!\n");
     
     return 0;
 }
