@@ -1,1 +1,0 @@
-# Lendo-e-escrevendo-nas-variaveis
