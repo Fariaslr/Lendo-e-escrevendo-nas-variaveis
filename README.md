@@ -7,6 +7,7 @@ tela, uma em cada linha, usando apenas um comando printf().
 [3)](https://github.com/Fariaslr/Lendo-e-escrevendo-nas-variaveis/blob/main/3%20-%20Imprimir%20n%C3%BAmero%20inteiro.c) Escreva um programa que leia um número inteiro e depois imprima a mensagem “Valor lido:”, seguido do valor inteiro. Use apenas um comando printf().
 
 [4)](https://github.com/Fariaslr/Lendo-e-escrevendo-nas-variaveis/blob/main/4%20-%20Imprimir%20inteiro%20como%20float.c) Faça um programa que leia um número inteiro e depois o imprima usando o operador ?%f?. Veja o que aconteceu.    
+
 [5)](https://github.com/Fariaslr/Lendo-e-escrevendo-nas-variaveis/blob/main/5%20-%20Imprimir%20float%20como%20inteiro.c) Faça um programa que leia um valor do tipo float e depois o imprima usando o operador ?%d?. Veja o que aconteceu.
 
 [6)](https://github.com/Fariaslr/Lendo-e-escrevendo-nas-variaveis/blob/main/6%20-%20Double%20como%20nota%C3%A7%C3%A3o%20ci%C3%AAntifica.c) Faça um programa que leia um valor do tipo double e depois o imprima na forma 
