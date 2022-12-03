@@ -2,18 +2,18 @@
 #include <locale.h>//biblioteca de acentos
 
 /*
-	4) Faça um programa que leia um número inteiro e depois o imprima usando o operador ?%f?. Veja o que aconteceu.
+	4) FaÃ§a um programa que leia um nÃºmero inteiro e depois o imprima usando o operador ?%f?. Veja o que aconteceu.
 */
 
 int main(){
     
     setlocale(LC_ALL,"");//Permite caracteres especiais
-    int n;
+    int numero;
     
-    printf("Digite um número inteiro: ");
-    scanf("%i",&n);
+    printf("Digite um nÃºmero inteiro: ");
+    scanf("%i",&numero);
 
-    printf("%f\n",n);
+    printf("%f\n",numero);
 
     return 0;
 }
