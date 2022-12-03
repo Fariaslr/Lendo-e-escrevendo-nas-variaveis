@@ -2,19 +2,19 @@
 #include <locale.h>//biblioteca de acentos
 
 /*
-	6) Faça um programa que leia um valor do tipo double e depois o imprima na forma 
-	de notação científica. 
+	6) FaÃ§a um programa que leia um valor do tipo double e depois o imprima na forma 
+	de notaÃ§Ã£o cientÃ­fica. 
 */
 
 int main(){
    
     setlocale(LC_ALL,"");//Permite caracteres especiais
-    double n;
+    double numero;
     
-    printf("Digite um número inteiro: ");
-    scanf("%d",&n);
+    printf("Digite um nÃºmero inteiro: ");
+    scanf("%d",&numero);
 
-    printf("\nValor lido: %E\n",n);
+    printf("\nValor lido: %E\n",numero);
     
     return 0;
 }
